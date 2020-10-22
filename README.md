@@ -1,2 +1,2 @@
-#About this project
-this is a git basics run through
+About this project,
+it's a git basics run through
